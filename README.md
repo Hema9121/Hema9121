@@ -2,6 +2,10 @@
 <h3 align="center">I'm a Data Science Enthusiast</h3>
 
 - 📫 You can reach me at **hemasrinivasulu.ds@gmail.com**
+- 👨‍💻 Currently I am working as a Data Science intern at iNeuron.ai
+- 👀 I’m interested in Data Science and related domains like Machine Learning, Computer Vision, Deep Learning, etc.
+- 🌱 I’m currently trying to explore every domain of Data Science.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
